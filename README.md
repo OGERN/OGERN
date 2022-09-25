@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OGERN
+- 👀 I’m interested in making a pixel art rogue lite video game
+- 🌱 I’m currently learning unity
+- 💞️ I’m looking for artists and unity programmers
+- 📫 How to reach me discord-OGERN#4787
+- 🧑 Our team now has 1 artist, 2 programmers (including me) and 2 composers
