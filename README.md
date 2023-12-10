@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @OGERN
-- 👀 I’m interested in making a pixel art rogue lite video game
-- 📫 How to reach me discord-OGERN#4787
+- 👀 I’m making games using Game Maker Studio 2
+- 🎂 Birthday 19 february
+- 📫 How to reach me: discord-OGERN#4787
